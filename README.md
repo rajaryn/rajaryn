@@ -1,39 +1,113 @@
-<h1 align="center">Hey there 👋</h1>
-<h3 align="center">I'm Raj Aryan</h3>
+<h1 align="center">Hi 👋, I'm Raj Aryan</h1>
+
+<h3 align="center">
+MCA Student @ JNU • Full Stack & Backend Developer • GenAI & Local LLM Enthusiast
+</h3>
 
 <p align="center">
-  MCA @ School of Computer and Systems Sciences, Jawaharlal Nehru University
+I am a backend developer actively learning AI, ML, and GenAI, passionate about building robust, cost-efficient AI applications. I value foundational problem-solving, writing easy-to-maintain code, and clear technical communication.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/raj-aryan-3bb7b91b4">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rajaryan0528@email.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500">
+## 🚀 About Me
+
+- 🎓 **Education:** MCA at **School of Computer and Systems Sciences, JNU** (7.45/9 CGPA) | BSc (Hons) CS, **University of Delhi** (8.095 CGPA).
+- 👔 **Leadership:** Serving as the Placement Coordinator for the MCA placement drive at JNU, acting as the primary liaison between students, faculty, and corporate recruiters.
+- 🌱 **Currently Exploring:** Agentic workflows, RAG Pipelines, Vector Databases, and Local LLM orchestration.
+- 💻 **Interests:** Backend Development, Structural Context Engineering, and System Design.
+- 📚 **Coursework:** Data Structures, Design and Analysis of Algorithms, DBMS, Operating Systems, AI.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Core Concepts
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql,js,html,css" />
+</p>
+<p><i>* Object-Oriented Programming (OOP)</i></p>
+
+### Frameworks & Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,bootstrap" />
 </p>
 
+### AI, ML & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+<p><i>* RAG Pipelines, Local LLMs (Ollama), LLM APIs (OpenAI), Pinecone, TiDB</i></p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,nginx,cloudflare,vscode" />
+</p>
+<p><i>* Command Line Interface (CLI), Jupyter Notebook, Cloudinary</i></p>
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 MindSpace: AI-Powered Mental Wellness Platform
+Built **"Mimi,"** an AI chatbot providing context-aware mental health support using a custom RAG pipeline and Pinecone for vector storage. Designed a hybrid database (MySQL & MongoDB) to guarantee ACID compliance for user data while scaling chat logs for 100+ concurrent sessions. Constrained LLM outputs strictly to verified psychological datasets to mitigate hallucinations.
+*🏆 Secured a Top 100 finish among 500+ teams and 3,000+ participants at MumbaiHacks (Dec 2025).*
+
+### 📄 IntelliDocs: AI Document Analysis System
+A full-stack document analysis platform that automates text summaries using Local LLMs (Ollama) to entirely eliminate external API costs. Architected a robust data pipeline using PyMuPDF and Cloudinary, converting documents into vector embeddings stored in TiDB. Launched on AWS Lightsail (50+ signups), engineering a secure tunneling architecture to bypass free-tier hardware constraints.
+
+### 🎙️ DevScribe
+A voice-first Agentic IDE framework built with a **Python/FastAPI** backend that generates and manages project scaffolding using a browser-based speech transcription layer, featuring an autonomous self-healing script loop. 
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥈 **First Runner-Up:** *Promptverse 2.0* organized by Fore School of Management (FSM), New Delhi (2026).
+- 🏅 **National Finalist:** *Mind the Product* organized by E-Cell, IIT Roorkee (2026).
+- 🎤 **Special Memento:** *DevScribe Agentic IDE Pitch* at the "AI for Viksit Bharat" national seminar, SC&SS JNU (2026).
+- 📜 **Scientific Computing with Python** – freeCodeCamp.
+- 📜 **Problem Solving (Intermediate) & SQL (Basic)** – HackerRank.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajaryn&color=blue" alt="Profile Views">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajaryn&show_icons=true&theme=default&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryn&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
-### 📈 Languages
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryn&layout=compact" alt="Top Languages">
+<img src="https://streak-stats.demolab.com?user=rajaryn&hide_border=true"/>
 </p>
 
 ---
 
-### 📅 Activity Graph
+## 🤝 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaryn&theme=default" alt="GitHub Activity Graph">
+<p align="left">
+<a href="mailto:rajaryan0528@email.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/raj-aryan-3bb7b91b4">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
-
----
-
-### 📫 Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-aryan-3bb7b91b4)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:rajaryan0528@gmail.com)
