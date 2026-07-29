@@ -24,7 +24,7 @@ I am a backend developer actively learning AI, ML, and GenAI, passionate about b
 
 ## 🚀 About Me
 
-- 🎓 **Education:** MCA at **School of Computer and Systems Sciences, JNU** (7.45/9 CGPA) | BSc (Hons) CS, **University of Delhi** (8.095 CGPA).
+- 🎓 **Education:** MCA at **School of Computer and Systems Sciences, JNU** | BSc (Hons) CS, **University of Delhi**.
 - 👔 **Leadership:** Serving as the Placement Coordinator for the MCA placement drive at JNU, acting as the primary liaison between students, faculty, and corporate recruiters.
 - 🌱 **Currently Exploring:** Agentic workflows, RAG Pipelines, Vector Databases, and Local LLM orchestration.
 - 💻 **Interests:** Backend Development, Structural Context Engineering, and System Design.
@@ -36,13 +36,13 @@ I am a backend developer actively learning AI, ML, and GenAI, passionate about b
 
 ### Languages & Core Concepts
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,sql,js,html,css" />
 </p>
 <p><i>* Object-Oriented Programming (OOP)</i></p>
 
 ### Frameworks & Web Development
 <p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express,bootstrap" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi,bootstrap" />
 </p>
 
 ### AI, ML & Databases
@@ -53,7 +53,7 @@ I am a backend developer actively learning AI, ML, and GenAI, passionate about b
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws,nginx,cloudflare,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,cloudflare,vscode" />
 </p>
 <p><i>* Command Line Interface (CLI), Jupyter Notebook, Cloudinary</i></p>
 
@@ -88,14 +88,6 @@ A voice-first Agentic IDE framework built with a **Python/FastAPI** backend that
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajaryn&show_icons=true&theme=default&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryn&layout=compact&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rajaryn&hide_border=true"/>
 </p>
 
 ---
