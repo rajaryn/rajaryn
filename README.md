@@ -53,7 +53,7 @@ I am a backend developer actively learning AI, ML, and GenAI, passionate about b
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,cloudflare,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,vscode" />
 </p>
 <p><i>* Command Line Interface (CLI), Jupyter Notebook, Cloudinary</i></p>
 
@@ -80,15 +80,6 @@ A voice-first Agentic IDE framework built with a **Python/FastAPI** backend that
 - 🎤 **Special Memento:** *DevScribe Agentic IDE Pitch* at the "AI for Viksit Bharat" national seminar, SC&SS JNU (2026).
 - 📜 **Scientific Computing with Python** – freeCodeCamp.
 - 📜 **Problem Solving (Intermediate) & SQL (Basic)** – HackerRank.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajaryn&show_icons=true&theme=default&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaryn&layout=compact&hide_border=true"/>
-</p>
 
 ---
 
