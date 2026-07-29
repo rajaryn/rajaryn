@@ -2,7 +2,7 @@
 <h3 align="center">I'm Raj Aryan</h3>
 
 <p align="center">
-  CS Postgrad @ Department of Computer Science, University of Delhi
+  MCA @ School of Computer and Systems Sciences, Jawaharlal Nehru University
 </p>
 
 ---
